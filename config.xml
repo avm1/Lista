@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="es.avm.Lista" version="1.0.0">
   <name>Lista</name>
-  <description>Lista</description>
+  <description>Ejemplo con python</description>
   <author email="a.vilches@parlamento-and.es">Lista</author>
   <content src="index.html"/>
   <platform name="android"></platform>
